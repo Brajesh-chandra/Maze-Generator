@@ -1,2 +1,5 @@
 # Maze-Generator
-Creates maze generator using JavaScript.
+Created maze generator using JavaScript.
+creating a maze using the depth first search algorithm and the recursive backtracker. 
+Implement the stack data structure to achieve the result.
+Here Most of the work has done using JavaScript.
